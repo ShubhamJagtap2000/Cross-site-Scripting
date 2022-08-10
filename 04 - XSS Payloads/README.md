@@ -1,6 +1,6 @@
 # [XSS Payloads](https://tryhackme.com/room/xssgi)
 
-## What is a payload?
+## What is a Payload?
 
 - In XSS, the payload is the ***JavaScript code*** we wish to be executed on the targets computer. There are two parts to the payload, **<ins>the Intention and the Modification</ins>**.
 
