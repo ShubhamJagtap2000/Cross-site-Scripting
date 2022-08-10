@@ -46,7 +46,7 @@ c00ki3_stealing_
 
 # The Next Steps
 
-- Click [here](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/03%20-%20Stored%20XSS/Stored%20XSS%20Approach) to see how to move further in a stored XSS attack.
+- Click **[here](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/04%20-%20Stored%20XSS/Stored%20XSS%20Approach)** to see how to move further in a stored XSS attack.
 
 # Scripts used to exploit
 
