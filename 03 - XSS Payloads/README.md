@@ -9,7 +9,7 @@
 
 
 ## Here are some examples of XSS intentions 
-- See all below mentioned scripts [here](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/04%20-%20XSS%20Payloads/Payload%20List)
+- See all below mentioned scripts [here](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/03%20-%20XSS%20Payloads/Payload%20List)
 
 ### 1. Proof of Concept (PoC)
 
