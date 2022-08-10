@@ -1,6 +1,6 @@
 # Stored XSS
 
-**To see which HTML/JavaScript payloads are being used to do the task please refer [this folder](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/03%20-%20Stored%20XSS/Sample%20Payloads).** <br>
+**To see which HTML/JavaScript payloads are being used to do the task please refer [this folder](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/04%20-%20Stored%20XSS/Sample%20Payloads).** <br>
 - Stored cross-site scripting is the most dangerous type of XSS. This is where a malicious string originates from the website's database. This often happens when a website allows user input that is ***not sanitised*** (remove the **"bad parts"** of a user's input) when inserted into the database.
    
   ![Screenshot (820)](https://user-images.githubusercontent.com/63872951/183843240-6955d1d5-1a23-42e6-8be3-67dbf8544db7.png)
@@ -52,7 +52,7 @@ c00ki3_stealing_
 
 - Click below to see which scripts/payloads were used in finding the answers to complete this task:
 
-   - [Question 2](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/blob/main/03%20-%20Stored%20XSS/Used%20Payloads/1%20-%20Q2.html)
-   - [Question 3](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/blob/main/03%20-%20Stored%20XSS/Used%20Payloads/2%20-%20Q3.js)
-   - [Question 4](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/blob/main/03%20-%20Stored%20XSS/Used%20Payloads/3%20-%20Q4.js)
+   - [Question 2](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/blob/main/04%20-%20Stored%20XSS/Used%20Payloads/1%20-%20Q2.html)
+   - [Question 3](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/blob/main/04%20-%20Stored%20XSS/Used%20Payloads/2%20-%20Q3.js)
+   - [Question 4](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/blob/main/04%20-%20Stored%20XSS/Used%20Payloads/3%20-%20Q4.js)
  
