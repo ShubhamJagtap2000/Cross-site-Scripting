@@ -37,3 +37,16 @@
   [<script>user.changeEmail('attacker@hacker.thm');</script>](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/blob/main/04%20-%20XSS%20Payloads/Payload%20List/4.%20BusinessLogic.js)
 
 - Now that the email address for the account has changed, the attacker may perform a reset password attack.
+
+# Answer the questions below
+
+1. Which document property could contain the user's session token?
+```
+document.cookie
+```
+
+2. Which JavaScript method is often used as a Proof Of Concept?
+```
+alert
+```
+
