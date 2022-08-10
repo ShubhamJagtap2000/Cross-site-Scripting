@@ -15,4 +15,4 @@
 
 - This is the simplest of payloads where all you want to do is demonstrate that you can achieve XSS on a website. This is often done by causing an ***alert box*** to pop up on the page with a string of text, for example:
 
-[<script>alert('XSS');</script>]()
+  [<script>alert('XSS');</script>]()
