@@ -43,3 +43,6 @@ JavascriptIsAwesome
 
 - Click [here](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/06%20-%20DOM-Based%20XSS/DOM-Based%20XSS%20Approach) to see how to move further in DOM-Based XSS attack.
 
+# Sample Payloads
+
+- Click [here](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/06%20-%20DOM-Based%20XSS/Sample%20Payloads)
