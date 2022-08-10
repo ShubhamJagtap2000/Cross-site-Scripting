@@ -30,4 +30,4 @@
 
 # The Next Steps
 
-- Click [here](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/05%20-%20Reflected%20XSS/Reflected%20XSS%20Approach) to see how to move further in reflected XSS atack.
+- Click [here](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/05%20-%20Reflected%20XSS/Reflected%20XSS%20Approach) to see how to move further in reflected XSS attack.
