@@ -8,7 +8,8 @@
 - `The intention` is what you wish the JavaScript to actually do (some examples below), and `the modification` is the changes to the code we need to make it execute as every scenario is different.
 
 
-## Here are some examples of XSS intentions.
+## Here are some examples of XSS intentions 
+- See all below mentioned scripts [here](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/04%20-%20XSS%20Payloads/Payload%20List)
 
 ### 1. Proof of Concept(PoC)
 
