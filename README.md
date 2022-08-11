@@ -31,3 +31,19 @@
   > Sample Payloads<br>
 
 **[7. Blind XSS](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/07%20-%20Blind%20XSS)**<br>
+**[8. XSS For IP and Port Scanning](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/08%20-%20XSS%20for%20IP%20and%20Port%20Scanning)**<br>
+  > Used Scripts<br>
+
+**[9. Key-Logger With XSS](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/09%20-%20Key-Logger%20with%20XSS)**<br>
+**[10. Filter Evsion](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/10%20-%20Filter%20Evasion)**<br>
+  > Scripts Used<br>
+
+**[11. Perfecting Your Payload](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/11%20-%20Perfecting%20Your%20Payload)**<br>
+  > Level 1<br>
+  > Level 2<br>
+  > Level 3<br>
+  > Level 4<br>
+  > Level 5<br>
+  > Level 6<br>
+  > Payload List<br>
+
