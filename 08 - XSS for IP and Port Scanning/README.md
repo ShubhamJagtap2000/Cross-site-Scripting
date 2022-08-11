@@ -44,4 +44,6 @@
 - A more detailed port scanner can be found [here](https://github.com/aabeling/portscan). 
 - As previously stated, this page is a proof of concept, you can create scripts which have much more capability.
 
+# Used Payloads/Scripts
 
+- If you have missed, click **[here](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/08%20-%20XSS%20for%20IP%20and%20Port%20Scanning/Used%20Scripts)** to see which payloads are used in the above tasks.
