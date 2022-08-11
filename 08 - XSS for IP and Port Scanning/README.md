@@ -21,7 +21,7 @@
   <img src="http://192.168.0.1/favicon.ico" onload="alert('Found')" onerror="alert('Not found')">
   ```
 
-- Please keep in mind this is a [proof of concept]() and there are many factors that will effect results such as response times, firewall rules, cross origin policies and more. 
+- Please keep in mind this is a [proof of concept](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/blob/main/08%20-%20XSS%20for%20IP%20and%20Port%20Scanning/Used%20Scripts/1.%20POC_Used.js) and there are many factors that will effect results such as response times, firewall rules, cross origin policies and more. 
 - Our browsers can conduct a basic network scan and infer about existing IP's, hostnames and services. As this is a learning exercise assume the factors do not apply here.
 
 - **The following script will scan an internal network in the range 192.168.0.0 to 192.168.0.255**
@@ -36,7 +36,8 @@
   }
   </script> 
   ```
-  
+- [Scanner script with explanation](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/blob/main/08%20-%20XSS%20for%20IP%20and%20Port%20Scanning/Used%20Scripts/2.%20Scanner_Used.js)
+
 - After you've found an **valid IP** you can then use the same method above and include a port number.
 - However, the method described here only works with web servers (as its looking for the favicon image). 
 
