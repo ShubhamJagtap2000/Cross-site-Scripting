@@ -38,7 +38,7 @@
   > Used Scripts<br>
 
 **[9. Key-Logger With XSS](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/09%20-%20Key-Logger%20with%20XSS)**<br>
-**[10. Filter Evsion](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/10%20-%20Filter%20Evasion)**<br>
+**[10. Filter Evasion](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/10%20-%20Filter%20Evasion)**<br>
   > Scripts Used<br>
 
 **[11. Perfecting Your Payload](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/11%20-%20Perfecting%20Your%20Payload)**<br>
