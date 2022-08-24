@@ -8,7 +8,7 @@
 
   ![Screenshot (829)](https://user-images.githubusercontent.com/63872951/184215362-731b76bf-8b81-454f-a4f0-3321b6aadd79.png)
 
-- Instead of entering your name, we're instead going to try entering the following JavaScript Payload: 
+- Instead of entering your name, we're instead going to try entering the following [JavaScript Payload](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/blob/main/11%20-%20Perfecting%20Your%20Payload/Payload%20List/Level1.js): 
   ```
   <script>alert('THM');</script>
   ```
