@@ -24,6 +24,9 @@
 
 #
 
+# Scripts
+
 ### [Payloads used in all 6 levels](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/11%20-%20Perfecting%20Your%20Payload/Payload%20List)
+### [XSS Ployglots](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/16%20-%20XSS%20Polyglots)
 
 #
