@@ -50,3 +50,8 @@
   > Level 6<br>
   > Payload List<br>
 
+**[12. Blilnd XSS Practical](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/12%20-%20Blind%20XSS%20Practical)**<br>
+**[13. Protection Methods](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/13%20-%20Protection%20Methods)**<br>
+**[14. Other Exploits](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/14%20-%20Other%20Exploits)**<br>
+**[15. Further Learning](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/15%20-%20Further%20Learning)**<br>
+**[16. XSS Polyglots](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/16%20-%20XSS%20Polyglots)**<br>
