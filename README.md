@@ -10,8 +10,8 @@
 #  
 ## Learning Resources
 
-**[TryHackMe Hacktivity 1](https://tryhackme.com/room/xssgi)**<br>
-**[TryHackMe Hacktivity 2](https://tryhackme.com/room/xss)**
+#### [TryHackMe Hacktivity 1](https://tryhackme.com/room/xssgi)<br>
+#### [TryHackMe Hacktivity 2](https://tryhackme.com/room/xss)
 
 # Table of Content
 
