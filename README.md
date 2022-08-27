@@ -52,6 +52,8 @@
   > Payload List<br>
 
 **[12. Blilnd XSS Practical](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/12%20-%20Blind%20XSS%20Practical)**<br>
+  > Used Payloads<br>
+  
 **[13. Protection Methods](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/13%20-%20Protection%20Methods)**<br>
   > Escaping<br>
   > Validating Input<br>
