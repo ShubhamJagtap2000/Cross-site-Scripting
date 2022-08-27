@@ -60,5 +60,7 @@
   > Sanitizing<br>
   
 **[14. Other Exploits](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/14%20-%20Other%20Exploits)**<br>
+  > BeEF Tool<br>
+  
 **[15. Further Learning](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/15%20-%20Further%20Learning)**<br>
 **[16. XSS Polyglots](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/16%20-%20XSS%20Polyglots)**<br>
