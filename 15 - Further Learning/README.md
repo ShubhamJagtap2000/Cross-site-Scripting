@@ -7,7 +7,7 @@
 [3. Learn DOM](https://www.w3.org/TR/REC-DOM-Level-1/introduction.html)<br>
 [4. xsshunter Tool](https://xsshunter.com/)<br>
 [5. XSS Ployglots](https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot)<br>
-
+[6. Base64 Decode Site for Cookies](https://www.base64decode.org/)
 ## XSS Reports
 
 [1. XSS found in Shopify](https://hackerone.com/reports/415484)<br>
