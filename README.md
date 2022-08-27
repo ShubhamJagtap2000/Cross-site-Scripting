@@ -64,3 +64,6 @@
   
 **[15. Further Learning](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/15%20-%20Further%20Learning)**<br>
 **[16. XSS Polyglots](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/16%20-%20XSS%20Polyglots)**<br>
+**[17. QnAs](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/17%20-%20QnA)**
+  > Room 1 QnAs<br>
+  > Room 2 QnAs
