@@ -17,6 +17,8 @@
 
 **[1. Introduction to XSS](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/01%20-%20Introduction)**<br>
 **[2. Deploy the Machine](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/02%20-%20Deploy%20The%20Machine)**<br>
+  > Deploy XSS Playground<br>
+  
 **[3. XSS Payloads](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/03%20-%20XSS%20Payloads)**<br>
   > Payload List<br>
   
