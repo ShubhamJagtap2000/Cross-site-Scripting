@@ -72,4 +72,12 @@
 **[16. XSS Polyglots](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/16%20-%20XSS%20Polyglots)**<br>
 **[17. QnAs](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/17%20-%20QnA)**
   > Room 1 QnAs<br>
+    > [Task 1](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/edit/main/17%20-%20QnA/Room%202/README.md#task-1)<br>
+    > [Task 2](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/edit/main/17%20-%20QnA/Room%202/README.md#task-2)<br>
+    > [Task 3](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/edit/main/17%20-%20QnA/Room%202/README.md#task-3)<br>
+    > [Task 4](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/edit/main/17%20-%20QnA/Room%202/README.md#task-4)<br>
+    > [Task 5](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/edit/main/17%20-%20QnA/Room%202/README.md#task-5)<br>
+    > [Task 6](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/edit/main/17%20-%20QnA/Room%202/README.md#task-6)<br>
+    > [Task 7](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/edit/main/17%20-%20QnA/Room%202/README.md#task-7)<br>
+    > [Task 8](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/edit/main/17%20-%20QnA/Room%202/README.md#task-8)<br>
   > Room 2 QnAs
