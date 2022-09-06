@@ -17,7 +17,7 @@
 
 - For example, a website could try to find if your router has a web interface at **<ins>192.168.0.1</ins>** by:
 
-  ```
+  ```js
   <img src="http://192.168.0.1/favicon.ico" onload="alert('Found')" onerror="alert('Not found')">
   ```
 
@@ -26,7 +26,7 @@
 
 - **The following script will scan an internal network in the range 192.168.0.0 to 192.168.0.255**
 
-  ```
+  ```js
   <script>
   for (let i = 0; i < 256; i++) 
   { 
