@@ -3,7 +3,7 @@
 - **Javascript** can be used for many things, including creating an event to listen for keypresses.
 - Sample Key-Logger
 
-  ```
+  ```js
   <script type="text/javascript">
     let l = ""; 
     document.onkeypress = function (e) 
