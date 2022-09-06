@@ -10,7 +10,7 @@
 
 
 - The aim for each level will be to execute the `JavaScript alert` function with the string `THM`, for example:
-```
+```js
 <script>alert('THM');</script>
 ```
 # Contents
