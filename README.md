@@ -1,4 +1,4 @@
-# [Cross-site-Scripting (XSS)](https://github.com/ShubhamJagtap2000/Cross-site-Scripting)
+# Cross-site-Scripting (XSS)
 
 ## Purpose of this repository
 
