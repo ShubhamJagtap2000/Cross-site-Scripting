@@ -15,7 +15,7 @@
 
 # Table of Content
 
-**[1. Introduction to XSS](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/01%20-%20Introduction)**<br>
+**[1. Introduction to XSS](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/01%20Introduction)**<br>
 **[2. Deploy the Machine](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/02%20-%20Deploy%20The%20Machine)**<br>
   > Deploy XSS Playground<br>
   
