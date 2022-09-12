@@ -7,7 +7,7 @@
 
   ![Screenshot (869)](https://user-images.githubusercontent.com/63872951/186128568-1b174348-4ff5-4b8d-b185-c880d6e26cf2.png)
 
-#  
+
 ## Learning Resources
 
 #### **[TryHackMe XSS Hacktivity Room 1](https://tryhackme.com/room/xssgi)**
