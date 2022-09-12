@@ -3,7 +3,7 @@
 # Please see the documentation for all configuration options:
 # https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
-version: 2
+version: 1.22.19
 updates:
   - package-ecosystem: "yarn" # See documentation for possible values
     directory: "/" # Location of package manifests
