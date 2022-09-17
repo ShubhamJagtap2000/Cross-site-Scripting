@@ -83,3 +83,6 @@
     > [Task 8](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/tree/main/17%20QnA/Room%202#task-8)<br>
  
  - **Room 2 QnAs** <br>
+ 
+### [Contribue to this repo](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/blob/main/.github/CONTRIBUTING.md)
+
