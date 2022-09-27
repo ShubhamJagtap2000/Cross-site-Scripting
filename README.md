@@ -4,7 +4,7 @@
 
 1. Understand how cross-site scripting occurs and how to exploit it.
 2. Learn how to detect and exploit XSS vulnerabilities, giving you control of other visitor's browsers.
-3. **[Make contribution](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/blob/main/.github/CONTRIBUTING.md)** to this repository.
+3. This repo is **[open for contributions](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/blob/main/.github/CONTRIBUTING.md)**.
 
   ![Screenshot (869)](https://user-images.githubusercontent.com/63872951/186128568-1b174348-4ff5-4b8d-b185-c880d6e26cf2.png)
 
