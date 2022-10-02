@@ -21,3 +21,7 @@
 [1. Beginner Level Pathway](https://tryhackme.com/path/outline/beginner)<br>
 [2. OWASP Top 10](https://tryhackme.com/room/owasptop10)<br>
 [3. Hacktivities and Hands-on Hacking](https://tryhackme.com/hacktivities)<br>
+
+## Blogs
+
+[1. Intro to Blind XSS](https://r0x4r.medium.com/introduction-to-blind-xss-417dcf9c842c) by [R0X4R](https://github.com/R0X4R)
