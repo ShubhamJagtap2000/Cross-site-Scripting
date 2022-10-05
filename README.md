@@ -87,7 +87,3 @@
 
 ⭐ this repo
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
