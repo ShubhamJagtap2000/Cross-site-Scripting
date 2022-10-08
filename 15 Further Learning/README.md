@@ -24,4 +24,4 @@
 
 ## Blogs
 
-[1. Intro to Blind XSS](https://r0x4r.medium.com/introduction-to-blind-xss-417dcf9c842c) by [R0X4R](https://github.com/R0X4R)
+[1. Intro to Blind XSS](https://r0x4r.medium.com/introduction-to-blind-xss-417dcf9c842c) - [R0X4R](https://github.com/R0X4R)
