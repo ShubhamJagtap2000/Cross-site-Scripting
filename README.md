@@ -85,5 +85,5 @@
  
  - **Room 2 QnAs** <br>
 
-⭐ this repo
+**Please⭐ this repo, if you really find it informative and learnable**
 
